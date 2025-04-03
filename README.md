@@ -84,3 +84,6 @@
         <div class="caption right-caption">Brian Head Range</div>
         <div class="caption bottom-caption">Extreme Custom Boards</div>
         <div class="caption bottom-left-caption">For The Designer Boarders</div>
+    </div>
+</body>
+</html>
