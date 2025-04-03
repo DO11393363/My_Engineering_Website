@@ -21,7 +21,7 @@
         .hero img {
             width: 33.33%;
             height: 100vh;
-            object-fit: cover;
+            object-fit: fill;
         }
         .overlay {
             position: absolute;
